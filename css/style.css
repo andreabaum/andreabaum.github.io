@@ -1,0 +1,18 @@
+body {
+
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 300;
+}
+
+ul.borderless li {
+  border: 0 none;
+}
+
+li.cortina {
+    color: #c6cec6;
+}
+
+span.year {
+    float: right;
+    color: #c6cec6;
+}

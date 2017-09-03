@@ -1,0 +1,450 @@
+[
+ {
+   "#": 1,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "Caricias",
+   "Album Artist": "Jorge Omar",
+   "Year": 1937,
+   "Genre": "Tango"
+ },
+ {
+   "#": 2,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "El Cornetin del Tranvía",
+   "Album Artist": "Jorge Omar",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 3,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "Monte Criollo",
+   "Album Artist": "Jorge Omar",
+   "Year": 1935,
+   "Genre": "Tango"
+ },
+ {
+   "#": 4,
+   "Artist": "Au Revoir Taipei OST",
+   "Title": "Moondance (Park)",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 5,
+   "Artist": "Orquesta Tipica Fresedo",
+   "Title": "Recuerdos de bohemia",
+   "Album Artist": "Roberto Ray",
+   "Year": 1935,
+   "Genre": "Tango"
+ },
+ {
+   "#": 6,
+   "Artist": "Orquesta Tipica Fresedo",
+   "Title": "Cordobesita",
+   "Album Artist": "Roberto Ray",
+   "Year": 1933,
+   "Genre": "Tango"
+ },
+ {
+   "#": 7,
+   "Artist": "Orquesta Tipica Fresedo",
+   "Title": "Colibriyo",
+   "Album Artist": "Roberto Ray",
+   "Year": 1933,
+   "Genre": "Tango"
+ },
+ {
+   "#": 8,
+   "Artist": "Au Revoir Taipei OST",
+   "Title": "Orange Blues (Full Band)",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 9,
+   "Artist": "Orquesta Tipica Los Provincianos (Ciriaco Ortiz)",
+   "Title": "Volvio la Princesita",
+   "Album Artist": "Luis Diaz",
+   "Year": 1932,
+   "Genre": "Vals"
+ },
+ {
+   "#": 10,
+   "Artist": "Orquesta Tipica Los Provincianos (Ciriaco Ortiz)",
+   "Title": "Un placer",
+   "Album Artist": "Carlos Lafuente",
+   "Year": 1933,
+   "Genre": "Vals"
+ },
+ {
+   "#": 11,
+   "Artist": "Orquesta Tipica Los Provincianos (Ciriaco Ortiz)",
+   "Title": "A tu memoria madrecita",
+   "Album Artist": "Luis Diaz",
+   "Year": 1934,
+   "Genre": "Vals"
+ },
+ {
+   "#": 12,
+   "Artist": "Au Revoir Taipei OST",
+   "Title": "Au Revoir Taipei",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 13,
+   "Artist": "Edgardo Donato y sus muchachos",
+   "Title": "El Adiós",
+   "Album Artist": "Horacio Lagos",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 14,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "Sinsabor",
+   "Album Artist": "Horacio Lagos y Lita Morales",
+   "Year": 1939,
+   "Genre": "Tango"
+ },
+ {
+   "#": 15,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "Mis pesares",
+   "Album Artist": "Horacio Lagos",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 16,
+   "Artist": "Bobby Hebb",
+   "Title": "Sunny",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 17,
+   "Artist": "Orquesta Típica Julio Pollero",
+   "Title": "Felicia",
+   "Album Artist": "-",
+   "Year": 1927,
+   "Genre": "Tango"
+ },
+ {
+   "#": 18,
+   "Artist": "Orquesta Típica Julio Pollero",
+   "Title": "De estirpe porteña",
+   "Album Artist": "-",
+   "Year": 1928,
+   "Genre": "Tango"
+ },
+ {
+   "#": 19,
+   "Artist": "Orquesta Típica Julio Pollero",
+   "Title": "Que vachache",
+   "Album Artist": "-",
+   "Year": 1928,
+   "Genre": "Tango"
+ },
+ {
+   "#": 20,
+   "Artist": "Nino Rota",
+   "Title": "Patricia",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 21,
+   "Artist": "Canaro, Francisco",
+   "Title": "Larga las penas",
+   "Album Artist": "Roberto Maida",
+   "Year": 1937,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 22,
+   "Artist": "Canaro, Francisco",
+   "Title": "Silueta Portena",
+   "Album Artist": "Roberto Maida",
+   "Year": 1936,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 23,
+   "Artist": "Canaro, Francisco",
+   "Title": "Milonga Criolla",
+   "Album Artist": "Roberto Maida",
+   "Year": 1936,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 24,
+   "Artist": "Portico Quartet",
+   "Title": "Pompidou",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 25,
+   "Artist": "Orquesta Miguel Caló",
+   "Title": "Cuatro compases",
+   "Album Artist": "Raul Beron",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 26,
+   "Artist": "Orquesta Miguel Caló",
+   "Title": "Al compas del corazon",
+   "Album Artist": "Raul Beron",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 27,
+   "Artist": "Orquesta Miguel Caló",
+   "Title": "Que te importa que te llore",
+   "Album Artist": "Raul Beron",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 28,
+   "Artist": "Shigeru Umebayashi",
+   "Title": "Yumeji's Theme - Li-zhen's Dialogue",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 29,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "Como se pianta la vida",
+   "Album Artist": "Armando Moreno",
+   "Year": 1940,
+   "Genre": "Tango"
+ },
+ {
+   "#": 30,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "En la buena y en la mala",
+   "Album Artist": "Armando Moreno",
+   "Year": 1940,
+   "Genre": "Tango"
+ },
+ {
+   "#": 31,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "La Gayola",
+   "Album Artist": "Armando Moreno",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 32,
+   "Artist": "Nino Rota",
+   "Title": "Valzerino del nonno",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 33,
+   "Artist": "Orquesta de Pedro Laurenz",
+   "Title": "Mascarita",
+   "Album Artist": "Juan Carlos Casas",
+   "Year": 1940,
+   "Genre": "Vals"
+ },
+ {
+   "#": 34,
+   "Artist": "Orquesta de Pedro Laurenz",
+   "Title": "Paisaje",
+   "Album Artist": "Alberto Podesta",
+   "Year": 1943,
+   "Genre": "Vals"
+ },
+ {
+   "#": 35,
+   "Artist": "Orquesta de Pedro Laurenz",
+   "Title": "Temblando",
+   "Album Artist": "Carlos Bermudez",
+   "Year": 1944,
+   "Genre": "Vals"
+ },
+ {
+   "#": 36,
+   "Artist": "Exilio Psiquico",
+   "Title": "Yo sé",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 37,
+   "Artist": "Trio Cesar Zagnoli",
+   "Title": "Canaro en Paris",
+   "Album Artist": "-",
+   "Year": 1957,
+   "Genre": "Tango"
+ },
+ {
+   "#": 38,
+   "Artist": "Trio Cesar Zagnoli",
+   "Title": "Sabado ingles",
+   "Album Artist": "-",
+   "Year": 1957,
+   "Genre": "Tango"
+ },
+ {
+   "#": 39,
+   "Artist": "Trio Cesar Zagnoli",
+   "Title": "Independiente Club",
+   "Album Artist": "-",
+   "Year": 1957,
+   "Genre": "Tango"
+ },
+ {
+   "#": 40,
+   "Artist": "Pinguin cafè orchestra",
+   "Title": "Perpetuum mobile",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 41,
+   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Title": "Carillón De La Merced",
+   "Album Artist": "Alberto Gomez",
+   "Year": 1931,
+   "Genre": "Tango"
+ },
+ {
+   "#": 42,
+   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Title": "Don Juan",
+   "Album Artist": "Alberto Gomez",
+   "Year": 1932,
+   "Genre": "Tango"
+ },
+ {
+   "#": 43,
+   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Title": "Ahora Soy Casado",
+   "Album Artist": "Alberto Gomez",
+   "Year": 1931,
+   "Genre": "Tango"
+ },
+ {
+   "#": 44,
+   "Artist": "Misophone",
+   "Title": "Petroleum Lampa",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 45,
+   "Artist": "Carlos Di Sarli",
+   "Title": "Pena mulata",
+   "Album Artist": "Roberto Rufino",
+   "Year": 1941,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 46,
+   "Artist": "Carlos Di Sarli",
+   "Title": "La mulateada",
+   "Album Artist": "Roberto Rufino",
+   "Year": 1941,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 47,
+   "Artist": "Carlos Di Sarli",
+   "Title": "Cuando un viejo se enamora",
+   "Album Artist": "Roberto Rufino",
+   "Year": 1942,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 48,
+   "Artist": "Nat King Cole",
+   "Title": "Aquellos Ojos Verdes",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 49,
+   "Artist": "Orquesta Anibal Troilo",
+   "Title": "Pajaro ciego",
+   "Album Artist": "Francisco Fiorentino, Amadeo Mandarino",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 50,
+   "Artist": "Orquesta Anibal Troilo",
+   "Title": "Malena",
+   "Album Artist": "Francisco Fiorentino",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 51,
+   "Artist": "Orquesta Anibal Troilo",
+   "Title": "Toda mi vida",
+   "Album Artist": "Francisco Fiorentino",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 52,
+   "Artist": "La Jarana",
+   "Title": "Todos vuelven",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 53,
+   "Artist": "Osvaldo Pugliese",
+   "Title": "Y Todavia Te Quiero",
+   "Album Artist": "Jorge Maciel",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 54,
+   "Artist": "Osvaldo Pugliese",
+   "Title": "Cascabelito",
+   "Album Artist": "Jorge Maciel",
+   "Year": 1955,
+   "Genre": "Tango"
+ },
+ {
+   "#": 55,
+   "Artist": "Osvaldo Pugliese",
+   "Title": "Remembranzas",
+   "Album Artist": "Jorge Maciel",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 56,
+   "Artist": "Orquesta Carlos Di Sarli",
+   "Title": "Verdemar",
+   "Album Artist": "Roberto Rufino",
+   "Year": 1943,
+   "Genre": "Tango"
+ }
+]
