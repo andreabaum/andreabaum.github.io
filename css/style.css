@@ -6,6 +6,14 @@ body {
 
 ul.borderless li {
   border: 0 none;
+  padding: 10px 0;
+}
+
+.content {
+  font-size: 16px;
+  line-height: 1;
+  font-weight: 350;
+  padding: 30px 20px;
 }
 
 li.cortina {
@@ -15,4 +23,22 @@ li.cortina {
 span.year {
     float: right;
     color: #c6cec6;
+}
+
+header.masthead .page-heading, header.masthead .post-heading, header.masthead .site-heading {
+    padding: 120px 0;
+}
+
+.title {
+    color: #777;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.1;
+    display: block;
+    margin: -20px 0 30px 20px;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+#mainNav .navbar-brand {
+    font-weight: 600;
 }
