@@ -1,12 +1,19 @@
 body {
-
-    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-    font-weight: 300;
+  font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-weight: 300;
 }
 
-ul.borderless li {
+ul.borderless .list-group-item {
   border: 0 none;
-  padding: 10px 0;
+  padding: 10px 10px;
+}
+
+a:hover{
+  color: darkred !important;
+}
+
+.content a:hover{
+  font-weight: 500;
 }
 
 .content {
