@@ -9,7 +9,7 @@ ul.borderless .list-group-item {
 }
 
 a:hover{
-  color: darkred !important;
+  color: #7e0000 !important;
 }
 
 .content a:hover{
@@ -48,4 +48,32 @@ header.masthead .page-heading, header.masthead .post-heading, header.masthead .s
 
 #mainNav .navbar-brand {
     font-weight: 600;
+}
+
+img:hover {
+    -webkit-filter: blur(1px); /* Safari 6.0 - 9.0 */
+    filter: blur(1px);
+}
+
+header {
+  margin-right: -5px;
+  margin-left: -5px;
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+
+header.blur {
+  -webkit-filter: blur(5px)saturate(0.1)brightness(1.3) !important;
+  filter: blur(5px)saturate(0.1)brightness(1.3) !important;
+}
+
+header.about {
+  -webkit-filter: blur(3px)hue-rotate(117deg)saturate(0.8);
+  filter: blur(3px)hue-rotate(117deg)saturate(0.8);
+}
+
+header.events {
+  -webkit-filter: blur(3px)hue-rotate(197deg)saturate(1.4);
+  filter: blur(3px)hue-rotate(197deg)saturate(1.4);
+
 }
