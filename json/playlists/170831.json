@@ -33,7 +33,7 @@
  },
  {
    "#": 5,
-   "Artist": "Orquesta Tipica Fresedo",
+   "Artist": "Orquesta Osvaldo Fresedo",
    "Title": "Recuerdos de bohemia",
    "Album Artist": "Roberto Ray",
    "Year": 1935,
@@ -41,7 +41,7 @@
  },
  {
    "#": 6,
-   "Artist": "Orquesta Tipica Fresedo",
+   "Artist": "Orquesta Osvaldo Fresedo",
    "Title": "Cordobesita",
    "Album Artist": "Roberto Ray",
    "Year": 1933,
@@ -49,7 +49,7 @@
  },
  {
    "#": 7,
-   "Artist": "Orquesta Tipica Fresedo",
+   "Artist": "Orquesta Osvaldo Fresedo",
    "Title": "Colibriyo",
    "Album Artist": "Roberto Ray",
    "Year": 1933,
@@ -65,7 +65,7 @@
  },
  {
    "#": 9,
-   "Artist": "Orquesta Tipica Los Provincianos (Ciriaco Ortiz)",
+   "Artist": "Orquesta Los Provincianos (Ciriaco Ortiz)",
    "Title": "Volvio la Princesita",
    "Album Artist": "Luis Diaz",
    "Year": 1932,
@@ -73,7 +73,7 @@
  },
  {
    "#": 10,
-   "Artist": "Orquesta Tipica Los Provincianos (Ciriaco Ortiz)",
+   "Artist": "Orquesta Los Provincianos (Ciriaco Ortiz)",
    "Title": "Un placer",
    "Album Artist": "Carlos Lafuente",
    "Year": 1933,
@@ -81,7 +81,7 @@
  },
  {
    "#": 11,
-   "Artist": "Orquesta Tipica Los Provincianos (Ciriaco Ortiz)",
+   "Artist": "Orquesta Los Provincianos (Ciriaco Ortiz)",
    "Title": "A tu memoria madrecita",
    "Album Artist": "Luis Diaz",
    "Year": 1934,
@@ -129,7 +129,7 @@
  },
  {
    "#": 17,
-   "Artist": "Orquesta Típica Julio Pollero",
+   "Artist": "Orquesta Julio Pollero",
    "Title": "Felicia",
    "Album Artist": "-",
    "Year": 1927,
@@ -137,7 +137,7 @@
  },
  {
    "#": 18,
-   "Artist": "Orquesta Típica Julio Pollero",
+   "Artist": "Orquesta Julio Pollero",
    "Title": "De estirpe porteña",
    "Album Artist": "-",
    "Year": 1928,
@@ -145,7 +145,7 @@
  },
  {
    "#": 19,
-   "Artist": "Orquesta Típica Julio Pollero",
+   "Artist": "Orquesta Julio Pollero",
    "Title": "Que vachache",
    "Album Artist": "-",
    "Year": 1928,
@@ -161,7 +161,7 @@
  },
  {
    "#": 21,
-   "Artist": "Canaro, Francisco",
+   "Artist": "Francisco Canaro",
    "Title": "Larga las penas",
    "Album Artist": "Roberto Maida",
    "Year": 1937,
@@ -169,7 +169,7 @@
  },
  {
    "#": 22,
-   "Artist": "Canaro, Francisco",
+   "Artist": "Francisco Canaro",
    "Title": "Silueta Portena",
    "Album Artist": "Roberto Maida",
    "Year": 1936,
@@ -177,7 +177,7 @@
  },
  {
    "#": 23,
-   "Artist": "Canaro, Francisco",
+   "Artist": "Francisco Canaro",
    "Title": "Milonga Criolla",
    "Album Artist": "Roberto Maida",
    "Year": 1936,
@@ -218,7 +218,7 @@
  {
    "#": 28,
    "Artist": "Shigeru Umebayashi",
-   "Title": "Yumeji's Theme - Li-zhen's Dialogue",
+   "Title": "Yumeji's Theme",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
@@ -257,7 +257,7 @@
  },
  {
    "#": 33,
-   "Artist": "Orquesta de Pedro Laurenz",
+   "Artist": "Orquesta Pedro Laurenz",
    "Title": "Mascarita",
    "Album Artist": "Juan Carlos Casas",
    "Year": 1940,
@@ -265,7 +265,7 @@
  },
  {
    "#": 34,
-   "Artist": "Orquesta de Pedro Laurenz",
+   "Artist": "Orquesta Pedro Laurenz",
    "Title": "Paisaje",
    "Album Artist": "Alberto Podesta",
    "Year": 1943,
@@ -273,7 +273,7 @@
  },
  {
    "#": 35,
-   "Artist": "Orquesta de Pedro Laurenz",
+   "Artist": "Orquesta Pedro Laurenz",
    "Title": "Temblando",
    "Album Artist": "Carlos Bermudez",
    "Year": 1944,
@@ -321,7 +321,7 @@
  },
  {
    "#": 41,
-   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Artist": "Orquesta Típica Victor",
    "Title": "Carillón De La Merced",
    "Album Artist": "Alberto Gomez",
    "Year": 1931,
@@ -329,7 +329,7 @@
  },
  {
    "#": 42,
-   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Artist": "Orquesta Típica Victor",
    "Title": "Don Juan",
    "Album Artist": "Alberto Gomez",
    "Year": 1932,
@@ -337,7 +337,7 @@
  },
  {
    "#": 43,
-   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Artist": "Orquesta Típica Victor",
    "Title": "Ahora Soy Casado",
    "Album Artist": "Alberto Gomez",
    "Year": 1931,
@@ -441,7 +441,7 @@
  },
  {
    "#": 56,
-   "Artist": "Orquesta Carlos Di Sarli",
+   "Artist": "Carlos Di Sarli",
    "Title": "Verdemar",
    "Album Artist": "Roberto Rufino",
    "Year": 1943,
