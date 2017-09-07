@@ -1,0 +1,482 @@
+[
+ {
+   "#": 1,
+   "Artist": "Rafael Canaro",
+   "Title": "Paciencia",
+   "Album Artist": "Luis Scalon",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 2,
+   "Artist": "Rafael Canaro",
+   "Title": "Yo no sé porqué te quiero",
+   "Album Artist": "Raoul Sander",
+   "Year": 1936,
+   "Genre": "Tango"
+ },
+ {
+   "#": 3,
+   "Artist": "Rafael Canaro",
+   "Title": "Viejos tiempos",
+   "Album Artist": "Aldo Campoamor",
+   "Year": 1939,
+   "Genre": "Tango"
+ },
+ {
+   "#": 4,
+   "Artist": "Detektivbyrån",
+   "Title": "Home Sweet Home",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 5,
+   "Artist": "Orquesta Tipica Don Horacio",
+   "Title": "Como yo te quiero",
+   "Album Artist": "Nelly Amor",
+   "Year": null,
+   "Genre": "Tango"
+ },
+ {
+   "#": 6,
+   "Artist": "Orquesta Tipica Don Horacio",
+   "Title": "A mí me gusta el tango",
+   "Album Artist": "Nelly Amor",
+   "Year": null,
+   "Genre": "Tango"
+ },
+ {
+   "#": 7,
+   "Artist": "Orquesta Tipica Don Horacio",
+   "Title": "Que pasó con tu cariño",
+   "Album Artist": "Nelly Amor",
+   "Year": null,
+   "Genre": "Tango"
+ },
+ {
+   "#": 8,
+   "Artist": "Bark Cat Bark",
+   "Title": "The Panther in Zaventem",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 9,
+   "Artist": "D'Arienzo, Juan",
+   "Title": "Desde el alma",
+   "Album Artist": "-",
+   "Year": 1935,
+   "Genre": "Vals"
+ },
+ {
+   "#": 10,
+   "Artist": "D'Arienzo, Juan",
+   "Title": "Corazon de artista",
+   "Album Artist": "-",
+   "Year": 1936,
+   "Genre": "Vals"
+ },
+ {
+   "#": 11,
+   "Artist": "D'Arienzo, Juan",
+   "Title": "Tu olvido",
+   "Album Artist": "Walter Cabral",
+   "Year": 1936,
+   "Genre": "Vals"
+ },
+ {
+   "#": 12,
+   "Artist": "Detektivbyrån",
+   "Title": "Laka-Koffa",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 13,
+   "Artist": "Orquesta Típica Francisco Canaro",
+   "Title": "Muchachita del campo",
+   "Album Artist": "Roberto Maida, Angel Ramos",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 14,
+   "Artist": "Orquesta Típica Francisco Canaro",
+   "Title": "Invierno",
+   "Album Artist": "Roberto Maida",
+   "Year": 1937,
+   "Genre": "Tango"
+ },
+ {
+   "#": 15,
+   "Artist": "Orquesta Típica Francisco Canaro",
+   "Title": "Condena",
+   "Album Artist": "Roberto Maida",
+   "Year": 1937,
+   "Genre": "Tango"
+ },
+ {
+   "#": 16,
+   "Artist": "I gatti mèzzi",
+   "Title": "Portami a pescare",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 17,
+   "Artist": "Orquesta Tipica Fresedo",
+   "Title": "Recuerdos de bohemia",
+   "Album Artist": "Roberto Ray",
+   "Year": 1935,
+   "Genre": "Tango"
+ },
+ {
+   "#": 18,
+   "Artist": "Orquesta Tipica Fresedo",
+   "Title": "Cordobesita",
+   "Album Artist": "Roberto Ray",
+   "Year": 1933,
+   "Genre": "Tango"
+ },
+ {
+   "#": 19,
+   "Artist": "Orquesta Tipica Fresedo",
+   "Title": "Colibriyo",
+   "Album Artist": "Roberto Ray",
+   "Year": 1933,
+   "Genre": "Tango"
+ },
+ {
+   "#": 20,
+   "Artist": "Bobo Rondelli & Stefano Bollani",
+   "Title": "Vitelloni",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 21,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "Serenata-Carlos Galarce",
+   "Album Artist": "Francisco Lomuto",
+   "Year": 1944,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 22,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "Parque Patricios",
+   "Album Artist": "Fernando Diaz",
+   "Year": 1941,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 23,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "No Hay Tierra Como la Mia",
+   "Album Artist": "Fernando Diaz",
+   "Year": 1939,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 24,
+   "Artist": "Misophone",
+   "Title": "A ghost of right wing America",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 25,
+   "Artist": "Orquesta Ricardo Malerba",
+   "Title": "Pasado Florido",
+   "Album Artist": "Antonio Maida",
+   "Year": 1945,
+   "Genre": "Tango"
+ },
+ {
+   "#": 26,
+   "Artist": "Orquesta Ricardo Malerba",
+   "Title": "Encuentro",
+   "Album Artist": "Antonio Maida",
+   "Year": 1944,
+   "Genre": "Tango"
+ },
+ {
+   "#": 27,
+   "Artist": "Orquesta Ricardo Malerba",
+   "Title": "Una copa mas",
+   "Album Artist": "Antonio Maida",
+   "Year": 1944,
+   "Genre": "Tango"
+ },
+ {
+   "#": 28,
+   "Artist": "Shigeru Umebayashi",
+   "Title": "Yumeji's Theme",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 29,
+   "Artist": "Orquesta Anibal Troilo",
+   "Title": "Maria",
+   "Album Artist": "Alberto Marino",
+   "Year": 1945,
+   "Genre": "Tango"
+ },
+ {
+   "#": 30,
+   "Artist": "Orquesta Anibal Troilo",
+   "Title": "Tres amigos",
+   "Album Artist": "Alberto Marino",
+   "Year": 1944,
+   "Genre": "Tango"
+ },
+ {
+   "#": 31,
+   "Artist": "Orquesta Anibal Troilo",
+   "Title": "Tal vez sera su voz",
+   "Album Artist": "Alberto Marino",
+   "Year": 1943,
+   "Genre": "Tango"
+ },
+ {
+   "#": 32,
+   "Artist": "Zoot Sims",
+   "Title": "Blinuet",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 33,
+   "Artist": "Orquesta Rodolfo Biagi",
+   "Title": "Loca de amor",
+   "Album Artist": "Teofilo Ibañez",
+   "Year": 1939,
+   "Genre": "Vals"
+ },
+ {
+   "#": 34,
+   "Artist": "Orquesta Rodolfo Biagi",
+   "Title": "Lejos de tí",
+   "Album Artist": "Teofilo Ibañez",
+   "Year": 1939,
+   "Genre": "Vals"
+ },
+ {
+   "#": 35,
+   "Artist": "Orquesta Rodolfo Biagi",
+   "Title": "Viejo portón",
+   "Album Artist": "Teofilo Ibañez",
+   "Year": 1939,
+   "Genre": "Vals"
+ },
+ {
+   "#": 36,
+   "Artist": "Paz Court",
+   "Title": "Asi",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 37,
+   "Artist": "Orquesta Carlos Di Sarli",
+   "Title": "El Jaguel",
+   "Album Artist": "-",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 38,
+   "Artist": "Orquesta Carlos Di Sarli",
+   "Title": "Comme il faut",
+   "Album Artist": "-",
+   "Year": 1951,
+   "Genre": "Tango"
+ },
+ {
+   "#": 39,
+   "Artist": "Orquesta Carlos Di Sarli",
+   "Title": "Milonguero viejo",
+   "Album Artist": "-",
+   "Year": 1951,
+   "Genre": "Tango"
+ },
+ {
+   "#": 40,
+   "Artist": "Exilio Psiquico",
+   "Title": "Yo sé",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 41,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "Como se pianta la vida",
+   "Album Artist": "Armando Moreno",
+   "Year": 1940,
+   "Genre": "Tango"
+ },
+ {
+   "#": 42,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "En la buena y en la mala",
+   "Album Artist": "Armando Moreno",
+   "Year": 1940,
+   "Genre": "Tango"
+ },
+ {
+   "#": 43,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "La Gayola",
+   "Album Artist": "Armando Moreno",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 44,
+   "Artist": "Nat King Cole",
+   "Title": "Aquellos Ojos Verdes",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 45,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "Ella es asi",
+   "Album Artist": "Horacio Lagos",
+   "Year": 1938,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 46,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "La Milonga Que Faltaba",
+   "Album Artist": "Horacio Lagos",
+   "Year": 1938,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 47,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "Campo afuera",
+   "Album Artist": "Horacio Lagos",
+   "Year": 1940,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 48,
+   "Artist": "Moloko",
+   "Title": "Sing it back (Can 7)",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 49,
+   "Artist": "Héctor Varela y su Orquesta Típica",
+   "Title": "Fumando espero",
+   "Album Artist": "Argentino Ledesma",
+   "Year": 1955,
+   "Genre": "Tango"
+ },
+ {
+   "#": 50,
+   "Artist": "Héctor Varela y su Orquesta Típica",
+   "Title": "Fueron tres años",
+   "Album Artist": "Argentino Ledesma",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 51,
+   "Artist": "Héctor Varela y su Orquesta Típica",
+   "Title": "Que tarde que has venido",
+   "Album Artist": "Argentino Ledesma",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 52,
+   "Artist": "US3",
+   "Title": "Cantaloop (Flip Fantasia)",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 53,
+   "Artist": "Orquesta Miguel Caló",
+   "Title": "Que te importa que te llore",
+   "Album Artist": "Raul Beron",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 54,
+   "Artist": "Orquesta Miguel Caló",
+   "Title": "Cuatro compases",
+   "Album Artist": "Raul Beron",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 55,
+   "Artist": "Orquesta Miguel Caló",
+   "Title": "Al compas del corazon",
+   "Album Artist": "Raul Beron",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 56,
+   "Artist": "Nino Rota",
+   "Title": "Valzerino del nonno",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 57,
+   "Artist": "Orquesta Tipica Bachicha",
+   "Title": "Avellaneda",
+   "Album Artist": "Emilia Garcia",
+   "Year": 1932,
+   "Genre": "Tango"
+ },
+ {
+   "#": 58,
+   "Artist": "Orquesta Bianco - Bachicha",
+   "Title": "Recuerdo",
+   "Album Artist": "-",
+   "Year": 1928,
+   "Genre": "Tango"
+ },
+ {
+   "#": 59,
+   "Artist": "Orquesta Bianco - Bachicha",
+   "Title": "La cumparsita",
+   "Album Artist": "-",
+   "Year": 1928,
+   "Genre": "Tango"
+ },
+ {
+   "#": 60,
+   "Artist": "Carlos Di Sarli",
+   "Title": "Verdemar",
+   "Album Artist": "Roberto Rufino",
+   "Year": 1943,
+   "Genre": "Tango"
+ }
+]
