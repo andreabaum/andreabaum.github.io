@@ -65,7 +65,7 @@
  },
  {
    "#": 9,
-   "Artist": "D'Arienzo, Juan",
+   "Artist": "Juan D'Arienzo",
    "Title": "Desde el alma",
    "Album Artist": "-",
    "Year": 1935,
@@ -73,7 +73,7 @@
  },
  {
    "#": 10,
-   "Artist": "D'Arienzo, Juan",
+   "Artist": "Juan D'Arienzo",
    "Title": "Corazon de artista",
    "Album Artist": "-",
    "Year": 1936,
@@ -81,7 +81,7 @@
  },
  {
    "#": 11,
-   "Artist": "D'Arienzo, Juan",
+   "Artist": "Juan D'Arienzo",
    "Title": "Tu olvido",
    "Album Artist": "Walter Cabral",
    "Year": 1936,
@@ -97,7 +97,7 @@
  },
  {
    "#": 13,
-   "Artist": "Orquesta Típica Francisco Canaro",
+   "Artist": "Orquesta Francisco Canaro",
    "Title": "Muchachita del campo",
    "Album Artist": "Roberto Maida, Angel Ramos",
    "Year": 1938,
@@ -105,7 +105,7 @@
  },
  {
    "#": 14,
-   "Artist": "Orquesta Típica Francisco Canaro",
+   "Artist": "Orquesta Francisco Canaro",
    "Title": "Invierno",
    "Album Artist": "Roberto Maida",
    "Year": 1937,
@@ -113,7 +113,7 @@
  },
  {
    "#": 15,
-   "Artist": "Orquesta Típica Francisco Canaro",
+   "Artist": "Orquesta Francisco Canaro",
    "Title": "Condena",
    "Album Artist": "Roberto Maida",
    "Year": 1937,
@@ -129,7 +129,7 @@
  },
  {
    "#": 17,
-   "Artist": "Orquesta Tipica Fresedo",
+   "Artist": "Orquesta Osvaldo Fresedo",
    "Title": "Recuerdos de bohemia",
    "Album Artist": "Roberto Ray",
    "Year": 1935,
@@ -137,7 +137,7 @@
  },
  {
    "#": 18,
-   "Artist": "Orquesta Tipica Fresedo",
+   "Artist": "Orquesta Osvaldo Fresedo",
    "Title": "Cordobesita",
    "Album Artist": "Roberto Ray",
    "Year": 1933,
@@ -145,7 +145,7 @@
  },
  {
    "#": 19,
-   "Artist": "Orquesta Tipica Fresedo",
+   "Artist": "Orquesta Osvaldo Fresedo",
    "Title": "Colibriyo",
    "Album Artist": "Roberto Ray",
    "Year": 1933,
@@ -162,8 +162,8 @@
  {
    "#": 21,
    "Artist": "Orquesta Francisco Lomuto",
-   "Title": "Serenata-Carlos Galarce",
-   "Album Artist": "Francisco Lomuto",
+   "Title": "Serenata",
+   "Album Artist": "Carlos Galarce",
    "Year": 1944,
    "Genre": "Milonga"
  },
@@ -410,7 +410,7 @@
  {
    "#": 52,
    "Artist": "US3",
-   "Title": "Cantaloop (Flip Fantasia)",
+   "Title": "Cantaloop",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
