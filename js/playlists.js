@@ -1,6 +1,7 @@
 var events = [
   '170831',
-  '170907'
+  '170907',
+  '170924'
 ];
 
 var eventId = getUrlParameter().toString();
