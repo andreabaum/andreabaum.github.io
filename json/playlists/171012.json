@@ -26,7 +26,7 @@
  {
    "#": 4,
    "Artist": "Au Revoir Taipei OST",
-   "Title": "Moondance (Park)",
+   "Title": "Moondance",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
@@ -50,7 +50,7 @@
  {
    "#": 7,
    "Artist": "Orquesta Osvaldo Fresedo",
-   "Title": "Y No Puede Ser",
+   "Title": "Y no puede ser",
    "Album Artist": "Ricardo Ruiz",
    "Year": 1939,
    "Genre": "Tango"
@@ -74,7 +74,7 @@
  {
    "#": 10,
    "Artist": "Angel Sica",
-   "Title": "Milonga Oriental",
+   "Title": "Milonga oriental",
    "Album Artist": "-",
    "Year": 1942,
    "Genre": "Milonga"
@@ -82,7 +82,7 @@
  {
    "#": 11,
    "Artist": "Emilio Pellajero",
-   "Title": "Mi Vieja Linda",
+   "Title": "Mi vieja linda",
    "Album Artist": "Enalmar De Maria",
    "Year": 1941,
    "Genre": "Milonga"
@@ -106,7 +106,7 @@
  {
    "#": 14,
    "Artist": "Edgardo Donato y sus muchachos",
-   "Title": "El Adiós",
+   "Title": "El adiós",
    "Album Artist": "Horacio Lagos",
    "Year": 1938,
    "Genre": "Tango"
@@ -146,7 +146,7 @@
  {
    "#": 19,
    "Artist": "Orquesta Típica Victor",
-   "Title": "Ahora Soy Casado",
+   "Title": "Ahora soy casado",
    "Album Artist": "Alberto Gomez",
    "Year": 1931,
    "Genre": "Tango"
@@ -154,7 +154,7 @@
  {
    "#": 20,
    "Artist": "Devendra Banhart",
-   "Title": "Santa Maria Da Feira",
+   "Title": "Santa Maria da Feira",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
@@ -178,7 +178,7 @@
  {
    "#": 23,
    "Artist": "Orquesta Francisco Canaro",
-   "Title": "Desde El Alma",
+   "Title": "Desde el alma",
    "Album Artist": "-",
    "Year": 1940,
    "Genre": "Vals"
@@ -258,7 +258,7 @@
  {
    "#": 33,
    "Artist": "Orquesta Francisco Canaro",
-   "Title": "Milonga Sentimental",
+   "Title": "Milonga sentimental",
    "Album Artist": "Ernesto Fama",
    "Year": 1933,
    "Genre": "Milonga"
@@ -306,7 +306,7 @@
  {
    "#": 39,
    "Artist": "Quinteto Don Pancho",
-   "Title": "Loca - Instrumental - 1938",
+   "Title": "Loca",
    "Album Artist": "-",
    "Year": 1938,
    "Genre": "Tango"
@@ -338,7 +338,7 @@
  {
    "#": 43,
    "Artist": "Panchito Cao y sus Muchachos de antes",
-   "Title": "Unión Cívica",
+   "Title": "Unión cívica",
    "Album Artist": "-",
    "Year": null,
    "Genre": "Tango"
@@ -386,7 +386,7 @@
  {
    "#": 49,
    "Artist": "Octeto Tibidabo",
-   "Title": "En Esta Tarde Gris",
+   "Title": "En esta tarde gris",
    "Album Artist": "-",
    "Year": 1966,
    "Genre": "Tango"
@@ -402,7 +402,7 @@
  {
    "#": 51,
    "Artist": "Octeto Tibidabo",
-   "Title": "Tres Amigos",
+   "Title": "Tres amigos",
    "Album Artist": "-",
    "Year": 1966,
    "Genre": "Tango"
@@ -418,7 +418,7 @@
  {
    "#": 53,
    "Artist": "Osvaldo Pugliese",
-   "Title": "Nochero Soy",
+   "Title": "Nochero soy",
    "Album Artist": "-",
    "Year": 1956,
    "Genre": "Tango"
