@@ -193,7 +193,7 @@
  },
  {
    "#": 25,
-   "Artist": "José García y Sus Zorros Grises",
+   "Artist": "José García y sus zorros grises",
    "Title": "Junto a tu corazón",
    "Album Artist": "Alfredo Rojas",
    "Year": 1942,
@@ -201,7 +201,7 @@
  },
  {
    "#": 26,
-   "Artist": "José García y Sus Zorros Grises",
+   "Artist": "José García y sus zorros grises",
    "Title": "A lo mejor, quién te dice?",
    "Album Artist": "Alfredo Rojas",
    "Year": 1942,
@@ -209,7 +209,7 @@
  },
  {
    "#": 27,
-   "Artist": "José García y Sus Zorros Grises",
+   "Artist": "José García y sus zorros grises",
    "Title": "El Once",
    "Album Artist": "-",
    "Year": 1943,
@@ -314,7 +314,7 @@
  {
    "#": 40,
    "Artist": "Giorgio Gaber",
-   "Title": "Il Conformista",
+   "Title": "Il conformista",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
@@ -349,7 +349,7 @@
    "Title": "Sfiorivano le viole",
    "Album Artist": "",
    "Year": null,
-   "Genre": ""
+   "Genre": "-"
  },
  {
    "#": 45,
