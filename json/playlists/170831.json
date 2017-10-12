@@ -10,7 +10,7 @@
  {
    "#": 2,
    "Artist": "Orquesta Francisco Lomuto",
-   "Title": "El Cornetin del Tranvía",
+   "Title": "El cornetin del tranvía",
    "Album Artist": "Jorge Omar",
    "Year": 1938,
    "Genre": "Tango"
@@ -26,7 +26,7 @@
  {
    "#": 4,
    "Artist": "Au Revoir Taipei OST",
-   "Title": "Moondance (Park)",
+   "Title": "Moondance",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
@@ -58,7 +58,7 @@
  {
    "#": 8,
    "Artist": "Au Revoir Taipei OST",
-   "Title": "Orange Blues (Full Band)",
+   "Title": "Orange Blues",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
@@ -98,7 +98,7 @@
  {
    "#": 13,
    "Artist": "Edgardo Donato y sus muchachos",
-   "Title": "El Adiós",
+   "Title": "El adiós",
    "Album Artist": "Horacio Lagos",
    "Year": 1938,
    "Genre": "Tango"
@@ -170,7 +170,7 @@
  {
    "#": 22,
    "Artist": "Francisco Canaro",
-   "Title": "Silueta Portena",
+   "Title": "Silueta portena",
    "Album Artist": "Roberto Maida",
    "Year": 1936,
    "Genre": "Milonga"
@@ -178,7 +178,7 @@
  {
    "#": 23,
    "Artist": "Francisco Canaro",
-   "Title": "Milonga Criolla",
+   "Title": "Milonga criolla",
    "Album Artist": "Roberto Maida",
    "Year": 1936,
    "Genre": "Milonga"
@@ -218,7 +218,7 @@
  {
    "#": 28,
    "Artist": "Shigeru Umebayashi",
-   "Title": "Yumeji's Theme",
+   "Title": "Yumeji's theme",
    "Album Artist": "",
    "Year": null,
    "Genre": "-"
