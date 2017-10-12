@@ -1,0 +1,442 @@
+﻿[
+ {
+   "#": 1,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "Buenos Aires",
+   "Album Artist": "-",
+   "Year": 1930,
+   "Genre": "Tango"
+ },
+ {
+   "#": 2,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "Fumando espero",
+   "Album Artist": "-",
+   "Year": 1927,
+   "Genre": "Tango"
+ },
+ {
+   "#": 3,
+   "Artist": "Orquesta Francisco Lomuto",
+   "Title": "A la luz de un candil",
+   "Album Artist": "-",
+   "Year": 1927,
+   "Genre": "Tango"
+ },
+ {
+   "#": 4,
+   "Artist": "Au Revoir Taipei OST",
+   "Title": "Moondance (Park)",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 5,
+   "Artist": "Orquesta Osvaldo Fresedo",
+   "Title": "Hablemos Claramente",
+   "Album Artist": "Ricardo Ruiz",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 6,
+   "Artist": "Orquesta Osvaldo Fresedo",
+   "Title": "Inquietud",
+   "Album Artist": "Ricardo Ruiz",
+   "Year": 1939,
+   "Genre": "Tango"
+ },
+ {
+   "#": 7,
+   "Artist": "Orquesta Osvaldo Fresedo",
+   "Title": "Y No Puede Ser",
+   "Album Artist": "Ricardo Ruiz",
+   "Year": 1939,
+   "Genre": "Tango"
+ },
+ {
+   "#": 8,
+   "Artist": "Au Revoir Taipei OST",
+   "Title": "Au Revoir Taipei",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 9,
+   "Artist": "Angel Sica",
+   "Title": "Rebeldia",
+   "Album Artist": "Romeo Gavioli y Freddy",
+   "Year": 1942,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 10,
+   "Artist": "Angel Sica",
+   "Title": "Milonga Oriental",
+   "Album Artist": "-",
+   "Year": 1942,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 11,
+   "Artist": "Emilio Pellajero",
+   "Title": "Mi Vieja Linda",
+   "Album Artist": "Enalmar De Maria",
+   "Year": 1941,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 12,
+   "Artist": "Devendra Banhart",
+   "Title": "Daniel",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 13,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "Sinsabor",
+   "Album Artist": "Horacio Lagos y Lita Morales",
+   "Year": 1939,
+   "Genre": "Tango"
+ },
+ {
+   "#": 14,
+   "Artist": "Edgardo Donato y sus muchachos",
+   "Title": "El Adiós",
+   "Album Artist": "Horacio Lagos",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 15,
+   "Artist": "Orquesta Edgardo Donato",
+   "Title": "Carnaval de mi barrio",
+   "Album Artist": "Horacio Lagos y Lita Morales",
+   "Year": 1939,
+   "Genre": "Tango"
+ },
+ {
+   "#": 16,
+   "Artist": "Devendra Banhart",
+   "Title": "Mi negrita",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 17,
+   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Title": "Don Juan",
+   "Album Artist": "Alberto Gomez",
+   "Year": 1932,
+   "Genre": "Tango"
+ },
+ {
+   "#": 18,
+   "Artist": "Alberto Gómez 'Nico' (Chansonnier) & Orquesta Típica Victor",
+   "Title": "Ventarrón",
+   "Album Artist": "Alberto Gomez",
+   "Year": 1933,
+   "Genre": "Tango"
+ },
+ {
+   "#": 19,
+   "Artist": "Alberto Gómez & Orquesta Típica Victor",
+   "Title": "Ahora Soy Casado",
+   "Album Artist": "Alberto Gomez",
+   "Year": 1931,
+   "Genre": "Tango"
+ },
+ {
+   "#": 20,
+   "Artist": "Devendra Banhart",
+   "Title": "Santa Maria Da Feira",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 21,
+   "Artist": "Orquesta Francisco Canaro",
+   "Title": "Soñar y nada mas",
+   "Album Artist": "Carlos Roldan y Eduardo Adrian",
+   "Year": 1943,
+   "Genre": "Vals"
+ },
+ {
+   "#": 22,
+   "Artist": "Orquesta Francisco Canaro",
+   "Title": "Muchacha",
+   "Album Artist": "Eduardo Adrian",
+   "Year": 1943,
+   "Genre": "Vals"
+ },
+ {
+   "#": 23,
+   "Artist": "Orquesta Francisco Canaro",
+   "Title": "Desde El Alma",
+   "Album Artist": "-",
+   "Year": 1940,
+   "Genre": "Vals"
+ },
+ {
+   "#": 24,
+   "Artist": "Mulatu Astatke",
+   "Title": "Yegelle Tezeta",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 25,
+   "Artist": "José García y Sus Zorros Grises",
+   "Title": "Junto a tu corazón",
+   "Album Artist": "Alfredo Rojas",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 26,
+   "Artist": "José García y Sus Zorros Grises",
+   "Title": "A lo mejor, quién te dice?",
+   "Album Artist": "Alfredo Rojas",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 27,
+   "Artist": "José García y Sus Zorros Grises",
+   "Title": "El Once",
+   "Album Artist": "-",
+   "Year": 1943,
+   "Genre": "Tango"
+ },
+ {
+   "#": 28,
+   "Artist": "Luca Argel",
+   "Title": "Demudar",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 29,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "Yo no se porque razon",
+   "Album Artist": "Armando Moreno",
+   "Year": 1942,
+   "Genre": "Tango"
+ },
+ {
+   "#": 30,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "Marinero",
+   "Album Artist": "Armando Moreno",
+   "Year": 1943,
+   "Genre": "Tango"
+ },
+ {
+   "#": 31,
+   "Artist": "Orquesta Enrique Rodriguez",
+   "Title": "La Gayola",
+   "Album Artist": "Armando Moreno",
+   "Year": 1941,
+   "Genre": "Tango"
+ },
+ {
+   "#": 32,
+   "Artist": "Misophone",
+   "Title": "A ghost of right wing America",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 33,
+   "Artist": "Orquesta Francisco Canaro",
+   "Title": "Milonga Sentimental",
+   "Album Artist": "Ernesto Fama",
+   "Year": 1933,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 34,
+   "Artist": "Orquesta Francisco Canaro",
+   "Title": "El lloron",
+   "Album Artist": "Ernesto Fama",
+   "Year": 1940,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 35,
+   "Artist": "Orquesta Francisco Canaro",
+   "Title": "Parque Patricios",
+   "Album Artist": "Ernesto Fama",
+   "Year": 1940,
+   "Genre": "Milonga"
+ },
+ {
+   "#": 36,
+   "Artist": "Lágrima Ríos",
+   "Title": "Bajó del árbol un tambor",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 37,
+   "Artist": "Francisco Canaro (Quinteto Don Pancho)",
+   "Title": "Sufra",
+   "Album Artist": "-",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 38,
+   "Artist": "Francisco Canaro (Quinteto Don Pancho)",
+   "Title": "La Viruta",
+   "Album Artist": "-",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 39,
+   "Artist": "Francisco Canaro (Quinteto Don Pancho)",
+   "Title": "Loca - Instrumental - 1938",
+   "Album Artist": "-",
+   "Year": 1938,
+   "Genre": "Tango"
+ },
+ {
+   "#": 40,
+   "Artist": "Giorgio Gaber",
+   "Title": "Il Conformista",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 41,
+   "Artist": "Panchito Cao y sus Muchachos de antes",
+   "Title": "La payanca",
+   "Album Artist": "-",
+   "Year": null,
+   "Genre": "Tango"
+ },
+ {
+   "#": 42,
+   "Artist": "Panchito Cao y sus Muchachos de antes",
+   "Title": "Los muchachos de antes",
+   "Album Artist": "-",
+   "Year": null,
+   "Genre": "Tango"
+ },
+ {
+   "#": 43,
+   "Artist": "Panchito Cao y sus Muchachos de antes",
+   "Title": "Unión Cívica",
+   "Album Artist": "-",
+   "Year": null,
+   "Genre": "Tango"
+ },
+ {
+   "#": 44,
+   "Artist": "Rino Gaetano",
+   "Title": "Sfiorivano le viole",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": ""
+ },
+ {
+   "#": 45,
+   "Artist": "Orquesta Rodolfo Biagi",
+   "Title": "Dichas que viví",
+   "Album Artist": "Andes Falgas",
+   "Year": 1940,
+   "Genre": "Vals"
+ },
+ {
+   "#": 46,
+   "Artist": "Orquesta Rodolfo Biagi",
+   "Title": "El último adiós",
+   "Album Artist": "Andes Falgas",
+   "Year": 1939,
+   "Genre": "Vals"
+ },
+ {
+   "#": 47,
+   "Artist": "Orquesta Rodolfo Biagi",
+   "Title": "Déjame amarte aunque sea un día",
+   "Album Artist": "Andes Falgas",
+   "Year": 1939,
+   "Genre": "Vals"
+ },
+ {
+   "#": 48,
+   "Artist": "Orchestra Baobab",
+   "Title": "Coumba",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 49,
+   "Artist": "Octeto Tibidabo",
+   "Title": "En Esta Tarde Gris",
+   "Album Artist": "-",
+   "Year": 1966,
+   "Genre": "Tango"
+ },
+ {
+   "#": 50,
+   "Artist": "Octeto Tibidabo",
+   "Title": "Garua",
+   "Album Artist": "-",
+   "Year": 1966,
+   "Genre": "Tango"
+ },
+ {
+   "#": 51,
+   "Artist": "Octeto Tibidabo",
+   "Title": "Tres Amigos",
+   "Album Artist": "-",
+   "Year": 1966,
+   "Genre": "Tango"
+ },
+ {
+   "#": 52,
+   "Artist": "Soap & Skin",
+   "Title": "Mr. Gaunt Pt. 1000",
+   "Album Artist": "",
+   "Year": null,
+   "Genre": "-"
+ },
+ {
+   "#": 53,
+   "Artist": "Osvaldo Pugliese",
+   "Title": "Nochero Soy",
+   "Album Artist": "-",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 54,
+   "Artist": "Osvaldo Pugliese",
+   "Title": "Y todavia te quiero",
+   "Album Artist": "Jorge Maciel",
+   "Year": 1956,
+   "Genre": "Tango"
+ },
+ {
+   "#": 55,
+   "Artist": "Osvaldo Pugliese",
+   "Title": "Cascabelito",
+   "Album Artist": "Jorge Maciel",
+   "Year": 1955,
+   "Genre": "Tango"
+ }
+]
