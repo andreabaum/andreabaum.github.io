@@ -76,3 +76,8 @@ header.events {
   -webkit-filter: blur(3px)hue-rotate(197deg)saturate(1.4);
   filter: blur(3px)hue-rotate(197deg)saturate(1.4);
 }
+
+/* Garufa */
+.container.garufa {
+  max-width: 960px !important;
+}
