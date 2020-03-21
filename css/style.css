@@ -75,5 +75,9 @@ header.about {
 header.events {
   -webkit-filter: blur(3px)hue-rotate(197deg)saturate(1.4);
   filter: blur(3px)hue-rotate(197deg)saturate(1.4);
+}
 
+/* Sli.do */
+.app__header-spacer.clearfix.app__header--extended, .app-footer.center, .btn--ask-question.ask-trigger {
+  display: none;
 }
